@@ -1,0 +1,6 @@
+valid_date: 98.17%
+day_acc: 14.42%
+month_acc: 98.17%
+leap_acc: 96.94%
+decade_acc: 98.17%
+all_pass: 14.25%

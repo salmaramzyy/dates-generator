@@ -1,0 +1,6 @@
+valid_date: 100.00%
+day_acc: 13.75%
+month_acc: 100.00%
+leap_acc: 100.00%
+decade_acc: 100.00%
+all_pass: 13.75%
