@@ -1,0 +1,6 @@
+valid_date: 100.00%
+day_acc: 100.00%
+month_acc: 100.00%
+leap_acc: 100.00%
+decade_acc: 100.00%
+all_pass: 100.00%

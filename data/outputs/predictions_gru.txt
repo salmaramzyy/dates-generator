@@ -1,0 +1,120 @@
+Condition:
+[WED] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': True, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[THU] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[FRI] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[SAT] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[SUN] [JAN] [True] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': False, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[TUE] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[WED] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': True, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[THU] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[FRI] [JAN] [True] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': False, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[SUN] [JAN] [False] [180]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': True}
+--------------------------------------------------
+
+Condition:
+[MON] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[TUE] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[WED] [JAN] [True] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': True, 'month': True, 'leap': False, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[FRI] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[SAT] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[SUN] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[MON] [JAN] [True] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': False, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[WED] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': True, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[THU] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
+Condition:
+[FRI] [JAN] [False] [181]
+Generated: 01-01-1800
+Evaluation: {'valid_date': True, 'weekday': False, 'month': True, 'leap': True, 'decade': False}
+--------------------------------------------------
+
